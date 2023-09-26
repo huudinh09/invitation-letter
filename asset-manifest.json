@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/invitation-letter/static/css/main.705bd54a.css",
+    "main.js": "/invitation-letter/static/js/main.aaccf82f.js",
+    "static/media/HannahDavis.png": "/invitation-letter/static/media/HannahDavis.18760c19b22d0f80952c.png",
+    "index.html": "/invitation-letter/index.html",
+    "main.705bd54a.css.map": "/invitation-letter/static/css/main.705bd54a.css.map",
+    "main.aaccf82f.js.map": "/invitation-letter/static/js/main.aaccf82f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.705bd54a.css",
+    "static/js/main.aaccf82f.js"
+  ]
+}
